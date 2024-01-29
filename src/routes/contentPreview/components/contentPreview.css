@@ -1,0 +1,11 @@
+
+  .previewWrapper {
+    /* Center vertically */
+    display: flex;
+    align-items: center;
+    min-height: 90vh;
+  }
+ 
+  .previewBlock {
+    margin: auto;
+  }

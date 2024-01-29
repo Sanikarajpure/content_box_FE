@@ -1,0 +1,33 @@
+.logoImg {
+    margin: auto;
+  }
+  
+  .registerFormWrapper {
+    /* Center vertically */
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .registerFormBlock {
+    margin: auto;
+  }
+  
+  
+  
+  .registerBtn:hover {
+    background-color: #004466;
+    color: #ffff;
+  }
+  
+  .goToLoginLinkBlock {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .goToLoginLink {
+    
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
