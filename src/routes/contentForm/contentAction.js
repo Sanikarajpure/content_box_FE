@@ -1,10 +1,6 @@
 import { axiosInstance } from "../../utilities/axiosHelper";
 
-import {
-  getToken,
-  getAuthHeader,
-  removeToken,
-} from "../../utilities/authTools";
+import { getToken, getAuthHeader } from "../../utilities/authTools";
 
 export const uploadContent = async (values, creator) => {
   console.log(creator);
